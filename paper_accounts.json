@@ -1,0 +1,27 @@
+{
+ "accounts": {
+  "90000002": {
+   "login": 90000002,
+   "name": "10K Demo",
+   "feed": 27558245,
+   "currency": "USC",
+   "leverage": 500,
+   "feed_leverage": 500,
+   "created": 1794363534,
+   "balance": 10000.0,
+   "positions": [],
+   "pending": [],
+   "trades": [],
+   "cash": [
+    {
+     "time": 1794363534,
+     "type": "balance",
+     "amount": 10000.0,
+     "comment": "Initial deposit"
+    }
+   ],
+   "ticket": 90000002000
+  }
+ },
+ "next": 90000003
+}
